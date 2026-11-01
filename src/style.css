@@ -4,7 +4,7 @@
 .formula-field{position:absolute;inset:0;pointer-events:none;overflow:hidden;z-index:0}.formula-field span{position:absolute;font:13px Georgia;color:var(--gold);opacity:.18;animation:drift 12s ease-in-out infinite alternate}.formula-field svg{position:absolute;inset:0;width:100%;height:100%;fill:none;stroke:var(--gold);stroke-width:.5;opacity:.09}.hero-inner{position:relative;z-index:1}.scroll-cue{z-index:2}.strategy-brands{padding-bottom:45px;background:#16120d55}.brand-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px}.strategy-card{display:flex;align-items:flex-start;gap:24px;padding:34px 28px;border:1px solid var(--line);background:#1a181577;border-radius:5px}.strategy-symbol{font:40px var(--serif);color:var(--gold);border:1px solid var(--line);padding:12px;flex-shrink:0}.strategy-card small{font-size:9px;letter-spacing:1.5px;color:var(--gold)}.strategy-card h3{font:30px Georgia;margin:16px 0}.strategy-card h3 span{display:block;font:19px var(--serif);letter-spacing:3px;margin-top:10px}.strategy-card p{font-size:12px;letter-spacing:2px;color:#c7b48c}.strategy-card em{font-size:11px;font-style:normal;color:var(--muted);line-height:1.9}.strategy-notes{padding:0 0 90px}.principles{display:grid;grid-template-columns:repeat(4,1fr);gap:28px;padding:32px 0 8px}.principles b{font:23px var(--serif);color:#cbb37e}.principles p,.deer-description p{font-size:12px;line-height:2;color:var(--muted)}.deer-description{padding-top:20px;max-width:850px}.research-flow{display:flex;align-items:center;gap:22px;margin:25px 0;flex-wrap:wrap}.research-flow span{font-size:12px;border:1px solid var(--line);padding:12px 18px;color:#d2bc91}.research-flow i{color:var(--gold);font-style:normal}.strategy-caption{font-size:10px;line-height:1.9;color:var(--muted);margin-top:24px}@media(max-width:760px){.brand-grid{grid-template-columns:1fr}.principles{grid-template-columns:1fr 1fr}.research-flow{gap:10px}.research-flow span{padding:9px 12px;font-size:11px}}
 .parent-brand{padding:28px 0 56px;border-bottom:1px solid var(--line);margin-bottom:58px}.parent-brand span{font-size:10px;letter-spacing:3px;color:var(--gold)}.parent-brand h2{font:400 clamp(35px,4vw,52px) var(--serif);letter-spacing:3px;margin:16px 0}.parent-brand p{color:#c9ae78;font-size:13px;letter-spacing:2px}.parent-brand small{display:block;color:var(--muted);font-size:12px;margin-top:18px}.risk-section{background:#100e0d;border-top:1px solid var(--line)}.risk-section h2{margin-bottom:45px}.principles{display:grid;grid-template-columns:repeat(4,1fr);gap:25px}.principles b{font:22px var(--serif);color:#cbb37e}.principles p{font-size:12px;line-height:2;color:var(--muted)}.clients-section h3{font:22px var(--serif);color:#cbb37e;margin:0 0 8px}.clients-section h3:not(:first-child){margin-top:25px}.clients-section p{font-size:12px;line-height:2;color:var(--muted);margin:0}.disclosure{padding:38px 0 50px;border-top:1px solid var(--line);background:#080809}.disclosure h3{font:22px var(--serif);margin:0 0 16px}.disclosure p{font-size:11px;line-height:2.1;color:#817d7b;max-width:980px}.nav-more{position:relative}.nav-more button{border:0;background:transparent;color:#a5a0a0;font-size:12px;letter-spacing:1.5px;cursor:pointer}.nav-more-menu{position:absolute;right:0;top:28px;min-width:145px;padding:10px;background:#151316;border:1px solid var(--line);box-shadow:0 12px 40px #0008}.nav-more-menu a{display:block;padding:9px 8px;font-size:11px}@media(max-width:760px){.parent-brand{margin-bottom:35px}.principles{grid-template-columns:1fr 1fr;gap:20px}.nav-more-menu{left:0;right:auto}.disclosure{padding-bottom:36px}}
 /* KuFund own visual language: vault, cultivation, and quiet growth. */
-:root{--bg:#0b0b0c;--surface:#151416;--text:#f0ede6;--muted:#99958e;--gold:#d2ba7d;--line:rgba(199,169,106,.24);--sage:#d5c9af;--serif:'Songti SC','STSong','SimSun',Georgia,serif}.nav{border-bottom-color:rgba(199,169,106,.16)}.brand-mark{width:36px;height:40px;font-size:0;background:url('/kufund-symbol.svg') center/contain no-repeat}.brand b{font-family:var(--serif);letter-spacing:2px}.brand small{color:#a79e91}.hero{background:radial-gradient(ellipse at 72% 48%,#40362428,transparent 42%),linear-gradient(120deg,#0b0b0c,#0b0b0c 55%,#171413)}.hero:after{content:'';position:absolute;inset:0;background-image:linear-gradient(120deg,transparent 0 59%,rgba(199,169,106,.06) 59.1% 59.2%,transparent 59.3%);pointer-events:none}.hero-layout{display:grid;grid-template-columns:1fr 1fr;align-items:center;gap:70px}.hero-inner{text-align:left;padding:165px 0 95px;position:relative;z-index:1}.eyebrow{color:#d5c9af;letter-spacing:3px}.eyebrow-line{display:inline-block;width:28px;height:1px;background:var(--gold);vertical-align:middle;margin-right:10px}.hero h1{letter-spacing:7px;text-indent:0;font-size:clamp(58px,6.5vw,102px)}.hero h1>span,.hero h1 em span{color:var(--sage)}.hero h1 em{background:linear-gradient(110deg,#e0c88b,#b99355);background-clip:text;-webkit-background-clip:text}.hero-motto{color:var(--gold);letter-spacing:4px;font-size:16px;margin-top:25px}.hero-description{color:#c1bbb0;font:15px/2 var(--serif);letter-spacing:1px;margin:28px 0 0}.hero-actions{justify-content:flex-start;margin-top:37px}.hero-primary{display:inline-flex;gap:12px;align-items:center;background:var(--sage);color:#171311;padding:14px 20px;font-size:12px;letter-spacing:1px}.hero-secondary{display:inline-flex;align-items:center;gap:10px;color:var(--gold);font-size:12px;letter-spacing:2px;padding:14px 5px}.hero-secondary span{font-size:20px}.hero-markets{display:flex;gap:24px;border-top:1px solid var(--line);margin-top:48px;padding-top:17px;color:#8f8980;font:10px Arial;letter-spacing:1.5px}.brand-landscape{position:relative;min-height:600px;display:flex;align-items:center;justify-content:center}.landscape-shape{width:min(520px,100%);height:560px;background:url('/kufund-landscape.svg') center/contain no-repeat;filter:drop-shadow(0 18px 22px #0008)}.landscape-label{position:absolute;top:104px;left:20px;color:var(--gold);font:italic 14px Georgia;letter-spacing:2px;z-index:1}.landscape-label span{display:block;font:11px var(--serif);color:#b3a58d;margin-top:7px;letter-spacing:2px}.landscape-caption{position:absolute;right:0;bottom:72px;border-left:1px solid var(--gold);padding-left:15px}.landscape-caption span{font:9px Arial;color:#b3a58d;letter-spacing:1px}.landscape-caption p{font:15px/1.9 var(--serif);color:#cdbb8e;margin:11px 0 0}.hero-bottom{position:absolute;bottom:25px;left:0;right:0;display:flex;justify-content:space-between;color:#8f8980;font-size:10px;letter-spacing:2px;z-index:2}.hero-bottom a{color:var(--gold)}.formula-field{opacity:.35}.formula-field span{color:#c7a96a}.stats{background:#111012;border-color:var(--line)}.stats strong{color:var(--sage)}.section h2,.insight h2{letter-spacing:2px}.funds{background:#151314}.strategy-brands{background:#191615}.strategy-card{background:#1c1918}.strategy-symbol{color:var(--sage)}.parent-brand p,.strategy-card p{color:var(--gold)}.risk-section{background:#141213}.contact{background:#1d1814}.disclosure{background:#09090a}.footer-inner .brand-mark{width:28px;height:32px}
+:root{--bg:#0b0b0c;--surface:#151416;--text:#f0ede6;--muted:#99958e;--gold:#d2ba7d;--line:rgba(199,169,106,.24);--sage:#d5c9af;--serif:'Songti SC','STSong','SimSun',Georgia,serif}.nav{border-bottom-color:rgba(199,169,106,.16)}.brand-mark{width:36px;height:40px;font-size:0;background:url('/kufund-symbol.svg') center/contain no-repeat}.brand b{font-family:var(--serif);letter-spacing:2px}.brand small{color:#a79e91}.hero{background:radial-gradient(ellipse at 72% 48%,#40362428,transparent 42%),linear-gradient(120deg,#0b0b0c,#0b0b0c 55%,#171413)}.hero:after{content:'';position:absolute;inset:0;background-image:linear-gradient(120deg,transparent 0 59%,rgba(199,169,106,.06) 59.1% 59.2%,transparent 59.3%);pointer-events:none}.hero-layout{display:grid;grid-template-columns:1fr 1fr;align-items:center;gap:70px}.hero-inner{text-align:left;padding:165px 0 95px;position:relative;z-index:1}.eyebrow{color:#d5c9af;letter-spacing:3px}.eyebrow-line{display:inline-block;width:28px;height:1px;background:var(--gold);vertical-align:middle;margin-right:10px}.hero h1{letter-spacing:7px;text-indent:0;font-size:clamp(58px,6.5vw,102px)}.hero h1>span,.hero h1 em span{color:var(--sage)}.hero h1 em{background:linear-gradient(110deg,#e0c88b,#b99355);background-clip:text;-webkit-background-clip:text}.hero-motto{color:var(--gold);letter-spacing:4px;font-size:16px;margin-top:25px}.hero-description{color:#c1bbb0;font:15px/2 var(--serif);letter-spacing:1px;margin:28px 0 0}.hero-actions{justify-content:flex-start;margin-top:37px}.hero-primary{display:inline-flex;gap:12px;align-items:center;background:var(--sage);color:#171311;padding:14px 20px;font-size:12px;letter-spacing:1px}.hero-secondary{display:inline-flex;align-items:center;gap:10px;color:var(--gold);font-size:12px;letter-spacing:2px;padding:14px 5px}.hero-secondary span{font-size:20px}.hero-markets{display:flex;gap:24px;border-top:1px solid var(--line);margin-top:48px;padding-top:17px;color:#8f8980;font:10px Arial;letter-spacing:1.5px}.brand-landscape{position:relative;min-height:600px;display:flex;align-items:center;justify-content:center}.landscape-shape{width:min(520px,100%);height:560px;filter:drop-shadow(0 18px 22px #0008)}.landscape-label{position:absolute;top:104px;left:20px;color:var(--gold);font:italic 14px Georgia;letter-spacing:2px;z-index:1}.landscape-label span{display:block;font:11px var(--serif);color:#b3a58d;margin-top:7px;letter-spacing:2px}.landscape-caption{position:absolute;right:0;bottom:72px;border-left:1px solid var(--gold);padding-left:15px}.landscape-caption span{font:9px Arial;color:#b3a58d;letter-spacing:1px}.landscape-caption p{font:15px/1.9 var(--serif);color:#cdbb8e;margin:11px 0 0}.hero-bottom{position:absolute;bottom:25px;left:0;right:0;display:flex;justify-content:space-between;color:#8f8980;font-size:10px;letter-spacing:2px;z-index:2}.hero-bottom a{color:var(--gold)}.formula-field{opacity:.35}.formula-field span{color:#c7a96a}.stats{background:#111012;border-color:var(--line)}.stats strong{color:var(--sage)}.section h2,.insight h2{letter-spacing:2px}.funds{background:#151314}.strategy-brands{background:#191615}.strategy-card{background:#1c1918}.strategy-symbol{color:var(--sage)}.parent-brand p,.strategy-card p{color:var(--gold)}.risk-section{background:#141213}.contact{background:#1d1814}.disclosure{background:#09090a}.footer-inner .brand-mark{width:28px;height:32px}
 @media(max-width:760px){.hero-layout{display:block}.hero-inner{padding:137px 0 40px;text-align:left}.hero h1{font-size:clamp(53px,14vw,77px);letter-spacing:4px}.hero-description{font-size:14px}.hero-markets{gap:12px;font-size:9px}.brand-landscape{min-height:370px;margin-top:-20px}.landscape-shape{height:350px}.landscape-label{top:25px;left:20px}.landscape-caption{right:12px;bottom:20px}.hero-bottom{display:none}}.nav-more-menu{background:#191615}.strategy-card.wu{border-top:2px solid #b7b0a0}.strategy-card.deer{border-top:2px solid #d2ba7d}.brand-mark{flex-shrink:0}@media(min-width:761px) and (max-width:1050px){.nav-links{gap:17px;font-size:11px}.hero-layout{gap:24px}.hero h1{font-size:64px}.hero-markets{gap:10px;font-size:9px}}@media(max-width:760px){.nav-links{background:#161415fa}.hero-actions{flex-direction:row;align-items:center;gap:20px}.hero-motto{font-size:12px;letter-spacing:3px}.hero h1{text-indent:0}.hero{min-height:0}.hero-markets{flex-wrap:wrap}.landscape-caption span{font-size:8px}.strategy-card{padding:24px 18px;gap:16px}.strategy-card small{font-size:8px}.strategy-card h3{font-size:27px}.strategy-symbol{font-size:28px;padding:9px}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation:none!important;transition:none!important}}
 
 /* Neutral graphite and champagne palette */
@@ -153,42 +153,42 @@ footer{padding:25px 0;border-color:#ffffff12}
 @media(max-width:760px){html{scroll-padding-top:76px}.container,.hero-layout{width:calc(100% - 40px)}.nav-wrap{background:linear-gradient(180deg,#09090af5,#09090ad9)}.nav{height:76px}.brand{gap:10px}.brand-mark{width:49px;height:31px;flex-basis:49px}.brand>span:last-child{height:31px}.brand b{font-size:21px;line-height:20px}.brand small{font-size:8px;line-height:9px;letter-spacing:2.5px}.mobile-toggle{color:#d0b77f}.nav-links{top:76px;gap:21px;padding:23px 20px;background:#131314;border-bottom-color:#c8ab7030}.nav-links a,.nav-more button{font-size:12px}.hero{min-height:0;padding-bottom:38px}.hero-layout{display:flex;flex-direction:column;align-items:stretch;gap:0}.hero-inner{padding:126px 0 22px}.eyebrow{font-size:9px;margin-bottom:18px}.hero h1{font-size:clamp(47px,12vw,68px);line-height:1.32;letter-spacing:2px}.hero-motto{font-size:13px;letter-spacing:2px;margin-top:13px}.hero-description{font-size:13px;margin-top:18px}.hero-actions{gap:18px;margin-top:22px;flex-direction:row;align-items:center}.hero-primary{font-size:11px;padding:12px 14px}.hero-secondary{font-size:11px}.hero-markets{margin-top:23px;padding-top:12px;gap:12px;font-size:8px}.brand-landscape{min-height:340px;margin:0 -8px}.landscape-shape{height:340px}.landscape-label{top:16px;left:12px;font-size:11px}.landscape-caption{right:5px;bottom:19px;padding-left:10px}.landscape-caption span{font-size:7px}.landscape-caption p{font-size:12px;margin-top:6px}.hero-bottom{display:none}.stats-grid{padding:22px 0;gap:22px 0}.stats strong{font-size:21px;letter-spacing:3px}.stats small{font-size:9px;letter-spacing:.5px;margin-top:7px}.section{padding:68px 0}.section-tag{font-size:8px;letter-spacing:1.7px;margin-bottom:16px}.section h2,.insight h2{font-size:31px;line-height:1.55}.split,.insight-inner{grid-template-columns:1fr;gap:20px}.about-copy{padding:0}.about-copy p,.section-head>p,.contact p{font-size:12px}.section-head{display:block;margin-bottom:25px}.section-head>p{text-align:left;margin:14px 0 0}.fund-cards{grid-template-columns:1fr;gap:11px}.fund-cards article{min-height:0;padding:22px}.fund-cards h3{margin:19px 0 10px}.fund-cards p{margin-bottom:20px}.strategy-brands{padding-top:68px;padding-bottom:40px}.parent-brand{display:block;padding-bottom:23px;margin-bottom:18px}.parent-brand h2{font-size:29px;margin:12px 0}.parent-brand p{margin:12px 0;font-size:10px}.parent-brand small{font-size:11px}.brand-grid{grid-template-columns:1fr;gap:11px}.strategy-card{min-height:190px;padding:23px 20px;gap:16px}.strategy-card h3{font-size:24px}.strategy-card small{font-size:8px}.strategy-notes{padding:28px 0 48px}.strategy-notes .method-panel{margin-bottom:11px}.strategy-notes .method-heading{grid-template-columns:1fr;gap:6px;padding:17px}.strategy-notes .method-heading h3{font-size:15px}.strategy-notes .principles{padding:15px;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.strategy-notes .principles>div,.strategy-notes .principles>div:nth-child(odd){min-height:145px;padding:15px 12px}.strategy-notes .principles b{font-size:20px}.strategy-notes .principles p{font-size:10px;margin-top:11px}.strategy-notes .principles>div:before{right:9px;top:15px;font-size:9px}.strategy-notes .deer-description{padding:16px}.strategy-notes .deer-description>p{font-size:11px}.strategy-notes .research-flow{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;margin:16px 0}.strategy-notes .research-flow span{padding:13px 10px 13px 34px;font-size:10px}.strategy-notes .research-flow span:before{left:10px;top:14px}.strategy-notes .strategy-caption{font-size:9px}.insight{padding:67px 0}.insight-inner{gap:13px}.insight h2{font-size:31px}.insight-list article{padding:19px 0}.insight-list b{font-size:15px}.risk-section h2{margin-bottom:24px}.risk-section .principles{grid-template-columns:repeat(2,minmax(0,1fr));gap:13px}.risk-section .principles b{font-size:17px}.risk-section .principles p{font-size:10px}.contact-inner{align-items:flex-start;flex-direction:column;gap:22px}.contact-placeholder{padding:10px 16px}.contact-placeholder span{font-size:16px}.disclosure{padding:27px 0 32px}.footer-inner{flex-wrap:wrap;justify-content:flex-start}.footer-inner>span:nth-child(2){margin-left:auto}.footer-inner>span:last-child{width:100%}}
 @media(max-width:380px){.hero h1{font-size:45px}.hero-actions{gap:11px}.hero-primary{padding:11px 10px}.hero-markets{gap:8px;font-size:7px}.strategy-card{padding:20px 15px}.strategy-card h3{font-size:21px}.footer-inner>span:nth-child(2){margin-left:0}}
 
-/* Comfortable reading sizes for the investor audience. */
+/* Balanced type scale: readable body text and restrained supporting headings. */
 :root{--muted:#beb8ae}
-body{font-size:18px;line-height:1.8;-webkit-text-size-adjust:100%;text-size-adjust:100%}
-.about-copy p,.section-head>p,.contact p,.fund-cards p,.clients-section p,.insight p,.insight>div>div:first-child>p,.insight-list article p,.principles p,.risk-section .principles p,.strategy-notes .principles p,.strategy-notes .deer-description>p{font-size:18px;line-height:1.95;color:#c3bdb3}
-.hero-description{font-size:20px;line-height:1.9;color:#d2ccc1}
-.nav-links,.nav-links a,.nav-more button,.nav-more-menu a{font-size:16px;letter-spacing:.5px}
+body{font-size:16px;line-height:1.8;-webkit-text-size-adjust:100%;text-size-adjust:100%}
+.about-copy p,.section-head>p,.contact p,.fund-cards p,.clients-section p,.insight p,.insight>div>div:first-child>p,.insight-list article p,.principles p,.risk-section .principles p,.strategy-notes .principles p,.strategy-notes .deer-description>p{font-size:16px;line-height:1.9;color:#c3bdb3}
+.hero-description{font-size:18px;line-height:1.9;color:#d2ccc1}
+.nav-links,.nav-links a,.nav-more button,.nav-more-menu a{font-size:14px;letter-spacing:.5px}
 .nav-links{gap:22px}.nav-more-menu{min-width:205px;top:36px}.nav-more-menu a{padding:10px}
-.arrow-link,.fund-cards a,.hero-primary,.hero-secondary{font-size:17px;letter-spacing:.5px;min-height:48px}
+.arrow-link,.fund-cards a,.hero-primary,.hero-secondary{font-size:15px;letter-spacing:.5px;min-height:48px}
 .section-tag,.eyebrow,.hero-markets,.hero-bottom,.landscape-label,.landscape-label span,.landscape-caption span,.strategy-card small,.strategy-notes .method-heading span,.insight-list span,.parent-brand>span{font-size:14px;line-height:1.7;letter-spacing:1px;color:#cfb785}
-.hero-markets{flex-wrap:wrap;gap:12px 20px}.hero-motto{font-size:18px}
+.hero-markets{flex-wrap:wrap;gap:12px 20px}.hero-motto{font-size:16px;line-height:1.6;letter-spacing:2px}
 .stats small,.parent-brand p,.parent-brand small,.strategy-card p,.strategy-card em,.strategy-notes .research-flow span,.strategy-notes .strategy-caption,.contact-placeholder small,.disclosure p,.footer-inner>span{font-size:16px;line-height:1.9;color:#c0b9ae;letter-spacing:.5px}
 .stats strong{font-size:28px}.stats-grid{gap:16px 0}
-.section h2,.insight h2{font-size:clamp(34px,3.5vw,46px)}
-.fund-cards h3,.clients-section h3{font-size:26px}.fund-cards article{padding:30px;min-height:340px}
-.strategy-card h3{font-size:30px}.strategy-card h3 span{font-size:23px}.strategy-card{min-height:270px;gap:20px}.strategy-card small{overflow-wrap:anywhere}
-.strategy-notes .method-heading h3{font-size:23px;line-height:1.7}.strategy-notes .method-heading{grid-template-columns:145px minmax(0,1fr)}
-.strategy-notes .principles b,.risk-section .principles b{font-size:25px}.strategy-notes .principles>div{min-height:0;padding:24px 18px}
+.section h2,.insight h2{font-size:clamp(32px,3.2vw,42px)}
+.fund-cards h3,.clients-section h3{font-size:24px}.fund-cards article{padding:30px;min-height:340px}
+.strategy-card h3{font-size:28px}.strategy-card h3 span{font-size:21px}.strategy-card{min-height:270px;gap:20px}.strategy-card small{overflow-wrap:anywhere}
+.strategy-notes .method-heading h3{font-size:21px;line-height:1.7}.strategy-notes .method-heading{grid-template-columns:145px minmax(0,1fr)}
+.strategy-notes .principles b,.risk-section .principles b{font-size:22px}.strategy-notes .principles>div{min-height:0;padding:24px 18px}
 .strategy-notes .principles>div:before{position:static;display:block;margin-bottom:8px;font-size:14px;color:#c0ab84}
 .strategy-notes .research-flow span{padding-top:18px;padding-bottom:18px}.strategy-notes .research-flow span:before{font-size:13px;top:23px}
-.insight-list b{font-size:23px;line-height:1.7;gap:16px}.insight-list b svg{flex-shrink:0;margin-top:10px}
+.insight-list b{font-size:20px;line-height:1.7;gap:16px}.insight-list b svg{flex-shrink:0;margin-top:10px}
 .landscape-caption p,.contact-placeholder span{font-size:20px}.landscape-caption{bottom:26px}
-.disclosure h3{font-size:25px}.disclosure p{max-width:1000px;line-height:2}.disclosure{padding:44px 0}
+.disclosure h3{font-size:21px}.disclosure p{max-width:1000px;line-height:2}.disclosure{padding:44px 0}
 .footer-inner{flex-wrap:wrap}.footer-inner>span{font-size:14px}
 .brand-mark{width:68px;height:42px;flex-basis:68px}.brand>span:last-child{height:42px}.brand b{font-size:26px;line-height:25px}.brand small{font-size:12px;line-height:13px;letter-spacing:2px}
 .footer-inner .brand-mark{width:60px;height:38px;flex-basis:60px}.footer-inner .brand>span:last-child{height:38px}.footer-inner .brand b{font-size:24px;line-height:23px}.footer-inner .brand small{font-size:11px;line-height:11px}
 @media(min-width:761px) and (max-width:1150px){.nav-links{gap:12px}.nav-links a,.nav-more button{font-size:14px}.brand{gap:9px}.nav .brand-mark{width:56px;flex-basis:56px}.fund-cards{grid-template-columns:1fr}.fund-cards article{min-height:0}.strategy-notes .principles,.risk-section .principles{grid-template-columns:repeat(2,minmax(0,1fr))}.hero-layout{grid-template-columns:1.1fr .9fr}}
 @media(max-width:760px){
 .nav .brand-mark{width:60px;height:38px;flex-basis:60px}.nav .brand>span:last-child{height:38px}.nav .brand b{font-size:24px;line-height:23px}.nav .brand small{font-size:11px;line-height:11px}
-.nav-links a,.nav-more button,.nav-more-menu a{font-size:17px}.nav-links{max-height:calc(100svh - 76px);overflow-y:auto}.mobile-toggle{min-width:48px;min-height:48px}
-.hero-description{font-size:18px}.hero-actions{flex-wrap:wrap;gap:12px 20px}.hero-primary,.hero-secondary{font-size:16px}.hero-markets{font-size:14px;gap:8px 16px}.eyebrow{font-size:13px}.hero h1{font-size:clamp(42px,11vw,68px)}
+.nav-links a,.nav-more button,.nav-more-menu a{font-size:14px}.nav-links{max-height:calc(100svh - 76px);overflow-y:auto}.mobile-toggle{min-width:48px;min-height:48px}
+.hero-description{font-size:16px}.hero-actions{flex-wrap:wrap;gap:12px 20px}.hero-primary,.hero-secondary{font-size:16px}.hero-markets{font-size:14px;gap:8px 16px}.eyebrow{font-size:13px}.hero h1{font-size:clamp(42px,11vw,68px)}
 .brand-landscape{margin-top:18px;min-height:370px}.landscape-label,.landscape-label span,.landscape-caption span{font-size:12px}.landscape-caption p{font-size:17px}.landscape-caption{bottom:0}
-.section-tag{font-size:13px}.section h2,.insight h2{font-size:33px}.about-copy p,.section-head>p,.contact p,.fund-cards p,.clients-section p,.insight p,.insight>div>div:first-child>p,.insight-list article p,.risk-section .principles p,.strategy-notes .principles p,.strategy-notes .deer-description>p{font-size:18px}
-.stats small{font-size:15px;letter-spacing:0}.stats strong{font-size:26px}.stats-grid>div{padding:0 8px}
-.fund-cards article{min-height:0;padding:24px}.strategy-card{min-height:0;flex-direction:column;padding:24px}.strategy-card small{font-size:13px}.strategy-card h3{font-size:29px}.strategy-card h3 span{font-size:23px}.strategy-card p,.strategy-card em{font-size:16px;letter-spacing:.5px}.parent-brand p,.parent-brand small{font-size:16px}
-.strategy-notes .method-heading{grid-template-columns:1fr;padding:22px}.strategy-notes .method-heading h3{font-size:22px}.strategy-notes .method-heading span{font-size:14px}.strategy-notes .principles,.risk-section .principles{grid-template-columns:1fr;gap:14px}.strategy-notes .principles>div,.strategy-notes .principles>div:nth-child(odd){min-height:0;padding:22px}.strategy-notes .principles>div:before{position:static;font-size:14px}.strategy-notes .deer-description{padding:22px}.strategy-notes .research-flow span{font-size:16px;padding:16px 12px;text-align:center}.strategy-notes .research-flow span:before{position:static;display:block;margin-bottom:4px;font-size:13px}.strategy-notes .strategy-caption{font-size:15px}
-.insight-list span{font-size:14px}.insight-list b{font-size:22px}.risk-section .principles b{font-size:24px}.contact-placeholder span{font-size:21px}.contact-placeholder small{font-size:16px}.disclosure p{font-size:16px}.footer-inner>span{font-size:14px}.footer-inner>span:nth-child(2){margin-left:0}
+.section-tag{font-size:13px}.section h2,.insight h2{font-size:30px}.about-copy p,.section-head>p,.contact p,.fund-cards p,.clients-section p,.insight p,.insight>div>div:first-child>p,.insight-list article p,.risk-section .principles p,.strategy-notes .principles p,.strategy-notes .deer-description>p{font-size:16px}
+.stats small{font-size:15px;letter-spacing:0}.stats strong{font-size:24px}.stats-grid>div{padding:0 8px}
+.fund-cards article{min-height:0;padding:24px}.strategy-card{min-height:0;flex-direction:column;padding:24px}.strategy-card small{font-size:13px}.strategy-card h3{font-size:26px}.strategy-card h3 span{font-size:21px}.strategy-card p,.strategy-card em{font-size:16px;letter-spacing:.5px}.parent-brand p,.parent-brand small{font-size:16px}
+.strategy-notes .method-heading{grid-template-columns:1fr;padding:22px}.strategy-notes .method-heading h3{font-size:20px}.strategy-notes .method-heading span{font-size:14px}.strategy-notes .principles,.risk-section .principles{grid-template-columns:1fr;gap:14px}.strategy-notes .principles>div,.strategy-notes .principles>div:nth-child(odd){min-height:0;padding:22px}.strategy-notes .principles>div:before{position:static;font-size:14px}.strategy-notes .deer-description{padding:22px}.strategy-notes .research-flow span{font-size:16px;padding:16px 12px;text-align:center}.strategy-notes .research-flow span:before{position:static;display:block;margin-bottom:4px;font-size:13px}.strategy-notes .strategy-caption{font-size:15px}
+.insight-list span{font-size:14px}.insight-list b{font-size:19px}.risk-section .principles b{font-size:21px}.contact-placeholder span{font-size:21px}.contact-placeholder small{font-size:16px}.disclosure p{font-size:16px}.footer-inner>span{font-size:14px}.footer-inner>span:nth-child(2){margin-left:0}
 }
 /* Refine line lengths and contrast after the reading-size increase. */
 .about-copy p,.section-head>p,.contact p,.fund-cards p,.clients-section p,.insight p,.insight-list article p,.risk-section .principles p,.strategy-notes .principles p,.strategy-notes .deer-description>p{max-width:66ch}
@@ -250,11 +250,9 @@ body{background:#0b0b0c}
 /* Balance the desktop hero with a larger architectural visual. */
 @media(min-width:1001px){.hero-layout{grid-template-columns:minmax(0,.94fr) minmax(0,1.06fr);gap:32px}.hero-inner{min-width:0}.hero-markets{max-width:560px}.brand-landscape{min-width:0;min-height:640px;background:radial-gradient(ellipse at 52% 46%,rgba(200,171,112,.075),transparent 65%)}.landscape-shape{width:min(640px,100%);height:640px;filter:brightness(1.16) drop-shadow(0 22px 32px #0007)}.landscape-label{top:76px;left:12px}.landscape-caption{right:0;bottom:12px;background:linear-gradient(90deg,rgba(20,18,15,.88),rgba(20,18,15,.25));padding:12px 0 12px 18px}.hero h1{font-size:clamp(58px,5.8vw,84px)}}
 
-/* Desktop-only architectural reveal and gentle node breathing. */
+/* Quiet contour reveal; reduced-motion users see the completed landscape. */
 .landscape-shape{background:none}.landscape-shape>svg{display:block;width:100%;height:100%}
-@media(min-width:1001px) and (prefers-reduced-motion:no-preference){.landscape-shape>svg>g[stroke="url(#a)"]>path{stroke-dasharray:4000;stroke-dashoffset:0;animation:landscape-reveal 3.6s ease-out both}.landscape-shape>svg>g[stroke="url(#a)"]>path:nth-child(2){animation-delay:.45s}.landscape-shape>svg>g:last-child>circle:nth-last-child(-n+2){transform-box:fill-box;transform-origin:center;animation:landscape-node 5s ease-in-out infinite}.landscape-shape>svg>g:last-child>circle:last-child{animation-delay:2.5s}}
-@keyframes landscape-reveal{from{stroke-dashoffset:4000;opacity:.15}to{stroke-dashoffset:0;opacity:1}}
-@keyframes landscape-node{0%,100%{transform:scale(.85);opacity:.05}50%{transform:scale(1.55);opacity:.18}}
+/* JavaScript shares one timeline between contour strokes and the SVG fill clip. */
 
 /* Let disclosure sentences wrap naturally across the current content width. */
 .disclosure p{max-width:none;margin:0;line-height:1.9;text-wrap:pretty}.disclosure p+p{margin-top:10px}.disclosure-name{white-space:nowrap}
@@ -268,3 +266,263 @@ body{background:#0b0b0c}
 
 /* Separate the three static brand domains. */
 .footer-copyright .brand-domains{gap:4px 0}.brand-domains>span+span::before{content:"|";display:inline-block;margin:0 12px;color:#726b60;font-weight:400}
+
+
+/* Hero actions: balanced proportions and consistent interaction states. */
+.hero-actions{align-items:center;gap:16px}
+.hero-actions>a{display:inline-flex;justify-content:center;align-items:center;gap:20px;min-height:54px;padding:0 22px;border:1px solid transparent;border-radius:3px;font-family:var(--sans);font-size:16px;font-weight:500;line-height:1.4;letter-spacing:.5px;white-space:nowrap;transition:background-color .2s ease,border-color .2s ease,color .2s ease,box-shadow .2s ease,transform .2s ease}
+.hero-actions .hero-primary{background:#d1c2a2;border-color:#d1c2a2;color:#171514;box-shadow:0 3px 12px #00000012}
+.hero-actions .hero-secondary{background:transparent;border-color:#c8ab703b;color:#dbc594}
+.hero-actions>a>span{font-size:inherit}
+.hero-actions>a>svg{width:18px;height:18px;flex-shrink:0;transition:transform .2s ease}
+.hero-actions>a:focus-visible{outline:2px solid #dfc88f;outline-offset:4px}
+@media(hover:hover){.hero-actions .hero-primary:hover{background:#e0d2b5;border-color:#e0d2b5;box-shadow:0 5px 18px #00000024}.hero-actions .hero-secondary:hover{background:#c8ab700d;border-color:#c8ab7080;color:#ead5a8}.hero-actions>a:hover>svg{transform:translate(2px,-2px)}}
+.hero-actions>a:active{transform:translateY(1px);box-shadow:none}
+@media(max-width:760px){.hero-actions{gap:12px}.hero-actions>a{min-height:50px;padding:0 18px;gap:14px;font-size:15px}}
+@media(max-width:380px){.hero-actions{gap:10px}.hero-actions>a{padding:0 14px;gap:10px;font-size:14px}}
+
+
+/* Official contact email. */
+.contact-email{display:block;width:fit-content;max-width:100%;margin-top:12px;padding:8px 0;color:#dbc594;font-size:clamp(18px,2vw,22px);line-height:1.5;letter-spacing:.3px;overflow-wrap:anywhere;text-decoration:underline;text-decoration-color:#c8ab7050;text-underline-offset:6px;transition:color .2s ease,text-decoration-color .2s ease}
+.contact-email:hover{color:#ead5a8;text-decoration-color:currentColor}
+
+
+/* Particles rotate within separately tilted and offset elliptical planes. */
+.landscape-time-orbit{transform-box:view-box;transform-origin:363px 146px}
+@media(prefers-reduced-motion:no-preference){.landscape-time-orbit{animation:landscape-time-turn 5.5s linear infinite}}
+@keyframes landscape-time-turn{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+
+
+/* Compact mobile header with an accessible dropdown navigation. */
+@media(max-width:760px){
+  .nav{position:relative;min-height:88px;flex-direction:row;align-items:center;justify-content:space-between;gap:16px;padding-top:16px;padding-bottom:16px}
+  .mobile-toggle{display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;cursor:pointer;border-radius:3px}
+  .mobile-toggle[aria-expanded="true"]{background:#c8ab7012}
+  .nav-links{display:none;position:absolute;top:100%;left:-20px;right:-20px;max-width:none;max-height:calc(100svh - 88px);overflow-y:auto;flex-direction:column;align-items:stretch;gap:0;padding:12px 20px 18px;background:#131314fa;border-bottom:1px solid var(--line);box-shadow:0 16px 24px #0003}
+  .nav-links.open{display:flex}
+  .nav-links a{display:flex;align-items:center;min-height:48px;padding:10px 8px;font-size:15px}
+  .hero-inner{padding-top:142px}
+}
+
+
+/* WuQuant's discipline statement complements its four research principles. */
+.wu-discipline{margin:0 24px 24px;padding:22px 0 0;border-top:1px solid var(--line)}
+.wu-discipline h4{margin:0 0 12px;color:#d1c4a7;font-family:var(--serif);font-size:22px;font-weight:400;line-height:1.6;letter-spacing:1px}
+.wu-discipline p{margin:0;color:#bcb6ad;font-size:16px;line-height:1.85;max-width:66ch}
+@media(max-width:760px){.wu-discipline{margin:0 22px 22px;padding-top:18px}.wu-discipline h4{font-size:20px}.wu-discipline p{max-width:none}}
+
+.wu-discipline p+p{margin-top:12px}
+.wu-discipline-signature{display:block;margin-top:18px;color:#a99a7e;font-family:Georgia,var(--sans);font-size:12px;line-height:1.7;letter-spacing:.7px}
+
+
+/* Keep deliberate title breaks; let reading text wrap without narrow fragments. */
+.copy-sentence{display:block;text-wrap:pretty}
+.section h2,.insight h2,.method-heading h3,.wu-discipline h4,.insight-list b{word-break:normal;overflow-wrap:normal;text-wrap:balance}
+.about-copy p,.section-head>p,.contact p,.fund-cards p,.clients-section p,.insight p,.principles p,.deer-description>p,.wu-discipline p{word-break:normal;line-break:strict;text-wrap:pretty}
+.split>div,.insight-inner>div,.section-head>div,.section-head>p,.parent-brand>*{min-width:0}
+.section-head{gap:24px}
+.strategy-card h3{white-space:nowrap}
+.strategy-card small{overflow-wrap:normal;word-break:normal;text-wrap:balance}
+.hero-motto{max-width:100%;text-wrap:balance}
+.brand-domains>span{display:inline-flex;align-items:baseline;white-space:nowrap}
+@media(max-width:760px){
+  .section-head>p{text-align:left}
+  .footer-copyright .brand-domains{flex-direction:column;align-items:flex-start;gap:6px}
+  .footer-copyright .brand-domains>span+span::before{content:none}
+  .hero-description,.section-head>p{letter-spacing:.3px}
+}
+
+.method-heading h3>.heading-phrase{display:inline-block;font:inherit;letter-spacing:inherit;color:inherit;white-space:nowrap}
+
+
+/* Brand hierarchy: bright convictions, readable narrative, quiet metadata. */
+:root{--copy-primary:#eee8dd;--copy-body:#b6b0a6;--copy-meta:rgba(206,193,169,.58)}
+.section-tag,.eyebrow,.landscape-label,.landscape-label span,.landscape-caption span,.strategy-card small,.strategy-notes .method-heading>span,.insight-list article>span,.parent-brand>span{color:var(--copy-meta);font-weight:400;letter-spacing:1.5px}
+.nav-links a{color:#b5afa4;font-weight:400}
+.nav-links a:hover,.nav-links a:focus-visible{color:#eee8dd}
+.hero h1{font-weight:600}.hero-motto{color:#c2a56a}
+.hero-description{color:#bbb5aa}.hero-markets{color:#a18f6b}
+.section h2,.insight h2{color:var(--copy-primary);font-weight:500}
+.about-copy p,.section-head>p,.fund-cards p,.clients-section p,.insight p,.insight-list article p,.risk-section .principles p,.strategy-notes .principles p,.strategy-notes .deer-description>p,.wu-discipline p,.contact p{color:var(--copy-body);font-weight:400}
+.investment-conviction{margin:24px 0 0;color:#cfb785;font-family:var(--serif);font-size:18px;line-height:1.8;letter-spacing:1px;text-wrap:balance}
+.section.strategy-brands{background:radial-gradient(ellipse at 13% 12%,#c8ab700a,transparent 55%),#111112}
+.parent-brand{grid-template-columns:1.1fr 1fr;gap:12px 48px;border-bottom-color:#c8ab7026;padding-bottom:40px;margin-bottom:28px}
+.parent-brand .parent-brand-name{font-family:Georgia,var(--serif);font-size:clamp(46px,5vw,66px);font-weight:400;line-height:1.12;letter-spacing:1px;color:#eee8dd}
+.parent-brand-name>span{display:block;margin-top:12px;font-family:var(--serif);font-size:22px;line-height:1.5;font-weight:500;letter-spacing:5px;color:#cdbb96}
+.parent-brand>p{color:#d1c4aa;font-size:14px}.parent-brand>small{max-width:none;color:#a9a297;font-size:14px}
+.brand-grid{gap:24px}
+.strategy-card{padding:36px;min-height:290px;background:linear-gradient(135deg,#ffffff04,transparent 70%);box-shadow:none;border-color:#ffffff12;border-top-width:1px}
+.strategy-card.wu{background:radial-gradient(ellipse at 0 0,#bfc7cf0b,transparent 70%),#141516;border-top-color:#aaa99d70}
+.strategy-card.deer{background:radial-gradient(ellipse at 100% 0,#c8ab700e,transparent 70%),#171613;border-top-color:#c8ab7070}
+.strategy-card:after{opacity:.35}.strategy-card:before{opacity:.55}
+.strategy-card .strategy-symbol{color:#c2b593;background:transparent;border-color:#c8ab7020;font-weight:400}
+.strategy-card h3{font-family:Georgia,var(--serif);font-size:clamp(30px,3vw,40px);font-weight:400;line-height:1.25;letter-spacing:.5px;margin:18px 0 0;color:#eee8dd}
+.strategy-card h3 span{font-family:var(--serif);font-size:20px;line-height:1.6;letter-spacing:3px;color:#c8bba2;margin-top:8px}
+.strategy-card p{color:#9e9688;font-size:13px;letter-spacing:1px;margin:22px 0 12px}
+.strategy-card .brand-conviction{display:block;color:#d4c19a;font-family:var(--serif);font-size:17px;font-weight:400;font-style:normal;line-height:1.8;letter-spacing:.5px;text-wrap:balance}
+.strategy-notes .method-panel{background:linear-gradient(120deg,#ffffff04,transparent),#101011;border-color:#ffffff0b;box-shadow:none}
+.strategy-notes .method-heading{border-bottom-color:#ffffff09}
+.strategy-notes .method-heading h3{font-weight:400;color:#d5cfc3}
+.strategy-notes .principles>div{background:transparent;border-color:#ffffff09}
+.strategy-notes .principles>div:before{color:#8e8166;opacity:.65}
+.strategy-notes .principles b,.risk-section .principles b{color:#c8b58e;font-weight:400}
+.strategy-notes .research-flow span{background:#ffffff02;border-color:#c8ab7024;color:#bbae94}
+.wu-discipline,.deer-conviction{position:relative;border-top:1px solid #c8ab7024;padding-top:28px}
+.wu-discipline h4,.deer-conviction h4{font:400 clamp(23px,2.5vw,30px)/1.7 var(--serif);letter-spacing:1px;color:#e4d1a9;margin:0 0 18px;text-wrap:balance}
+.wu-discipline p,.deer-conviction p{font-size:16px;line-height:1.9;color:#b6b0a6;max-width:66ch}
+.deer-conviction{margin-top:28px}.deer-conviction p{margin:0}
+.wu-discipline-signature{color:#9b8c70;font-size:12px}
+.strategy-notes .strategy-caption{color:#8f887d;font-size:12px}
+.insight-list b{font-family:var(--serif);font-weight:400;color:#ded6c7;font-size:22px}
+.fund-cards article{background:#ffffff02;border-color:#c8ab701c;box-shadow:none}
+.fund-cards .card-num{opacity:.55}.fund-cards h3{font-weight:400}
+.disclosure h3{font-weight:400;color:#bbb2a3}.disclosure p{color:#999389;font-size:13px}
+@media(max-width:760px){
+  .investment-conviction{font-size:16px;margin-top:18px}
+  .parent-brand{padding-bottom:28px}.parent-brand .parent-brand-name{font-size:46px;margin:18px 0 22px}.parent-brand-name>span{font-size:20px;letter-spacing:4px}
+  .parent-brand>p{font-size:13px}.parent-brand>small{display:block;margin-top:12px;max-width:none}
+  .strategy-card{padding:28px 24px;min-height:0;gap:18px}.strategy-card h3{font-size:34px;margin-top:14px}.strategy-card h3 span{font-size:19px}
+  .strategy-card .brand-conviction{font-size:17px}.strategy-card p{font-size:13px}
+  .wu-discipline h4,.deer-conviction h4{font-size:23px}.wu-discipline,.deer-conviction{padding-top:22px}
+  .insight-list b{font-size:20px}.disclosure p{font-size:13px;line-height:1.95}
+}
+
+/* Keep strategy convictions compact and give the copy room to breathe. */
+@media(min-width:1001px){
+  .wu-discipline,.deer-conviction{display:grid;grid-template-columns:minmax(300px,.9fr) minmax(0,1.4fr);column-gap:48px;align-items:start}
+  .wu-discipline h4,.deer-conviction h4{grid-column:1;grid-row:1;margin:0}
+  .wu-discipline p,.deer-conviction p{grid-column:2;grid-row:1;max-width:48em;margin:0;padding-top:7px}
+  .wu-discipline-signature{grid-column:2;margin-top:12px}
+}
+
+/* Separate risk principles clearly without compressing the text. */
+.risk-section .principles{column-gap:40px;row-gap:32px}
+.risk-section .principles>div{min-width:0;padding-top:20px}
+.risk-section .principles p{margin:18px 0 0}
+@media(min-width:761px) and (max-width:1150px){
+  .risk-section .principles{column-gap:36px;row-gap:32px}
+}
+@media(max-width:760px){
+  .risk-section .principles{row-gap:28px}
+  .risk-section .principles>div{padding-top:18px}
+  .risk-section .principles p{margin-top:14px}
+}
+
+/* Bring the hero landscape into the copy's composition. */
+@media(min-width:1001px){
+  .hero-layout{grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:0;align-items:center}
+  .hero-inner{z-index:2;align-self:center;width:100%;padding:138px 0 90px;text-align:left}
+  .hero-inner>.eyebrow,.hero-inner>h1,.hero-inner>.hero-motto,.hero-inner>.hero-description{max-width:100%}
+  .hero-actions{align-items:center;flex-wrap:wrap}
+  .hero-markets{width:min(100%,560px)}
+  .brand-landscape{isolation:isolate;min-height:640px;background:none}
+  .brand-landscape::before{content:'';position:absolute;inset:-60px -80px -60px -300px;background:radial-gradient(ellipse at 56% 50%,rgba(200,171,112,.09),rgba(200,171,112,.035) 46%,transparent 78%);pointer-events:none;z-index:-2}
+  .landscape-shape{position:absolute;left:-300px;top:50%;width:calc(100% + 420px);max-width:none;height:740px;transform:translateY(-50%);pointer-events:none;z-index:-1}
+  .landscape-shape>svg{transform:scaleX(1.18);transform-origin:50% 50%}
+  .landscape-label{left:clamp(0px,2vw,24px);top:52px}
+  .landscape-caption{right:0;bottom:12px}
+}
+@media(min-width:1280px){
+  .brand-landscape{min-height:680px}
+  .landscape-shape{left:-360px;width:calc(100% + 500px);height:800px}
+  .landscape-label{left:12px;top:48px}
+}
+
+/* Page rhythm: generous section boundaries, compact related content. */
+.container,.hero-layout{width:min(1320px,calc(100% - 96px))}
+.section,.insight{padding:clamp(76px,6.5vw,104px) 0}
+.section-tag{margin-bottom:22px}
+.split,.insight-inner{column-gap:clamp(48px,6vw,88px);row-gap:32px}
+.about-copy{padding-top:24px}
+.about-copy p{margin:0;max-width:36em}
+.section-head{gap:40px;margin-bottom:36px}
+.section-head>p{max-width:28em;margin-bottom:0}
+.stats-grid{padding:30px 0;row-gap:26px}
+.fund-cards{gap:24px}
+.fund-cards article{padding:30px;min-height:300px}
+.fund-cards h3{margin:22px 0 16px}
+.fund-cards p{margin-bottom:24px}
+.section.strategy-brands{padding-bottom:48px}
+.parent-brand{padding-top:0;padding-bottom:32px;margin-bottom:32px}
+.strategy-card{min-height:260px;padding:32px}
+.strategy-notes{padding:40px 0 72px}
+.strategy-notes .method-panel{margin-bottom:24px}
+.strategy-notes .method-heading{padding:24px 28px;column-gap:28px}
+.strategy-notes .principles{padding:28px;gap:20px}
+.strategy-notes .principles>div{padding:22px 20px}
+.strategy-notes .principles p{margin-top:14px}
+.strategy-notes .deer-description{padding:28px}
+.strategy-notes .deer-description>p{max-width:64em;margin:0}
+.strategy-notes .research-flow{margin:26px 0;gap:20px}
+.wu-discipline{margin:0 28px 28px}
+.wu-discipline,.deer-conviction{padding-top:28px}
+.strategy-notes .strategy-caption{margin:24px 0 0}
+.insight-inner{grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr)}
+.insight-list article{padding:28px 0}
+.insight-list article p{margin-top:16px;max-width:38em}
+.risk-section h2{margin-bottom:12px}
+.risk-section .principles{padding-top:32px;column-gap:40px}
+.clients-section p{max-width:36em}
+.contact-inner{gap:48px}
+.contact p{max-width:34em;margin-bottom:0}
+.disclosure{padding:36px 0 40px}
+.disclosure p{max-width:76em;line-height:1.9}
+footer{padding:30px 0}
+@media(min-width:761px) and (max-width:1150px){
+  .container,.hero-layout{width:calc(100% - 64px)}
+  .fund-cards{grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+  .fund-cards article{padding:24px;min-height:0}
+  .strategy-card{padding:28px;min-height:0}
+  .strategy-notes .principles{gap:20px}
+  .risk-section .principles{column-gap:36px}
+}
+@media(max-width:760px){
+  .container,.hero-layout{width:calc(100% - 40px)}
+  .section,.insight{padding:64px 0}
+  .section-tag{margin-bottom:18px}
+  .split,.insight-inner{grid-template-columns:1fr;gap:28px}
+  .about-copy{padding-top:0}
+  .section-head{margin-bottom:28px}
+  .section-head>p{margin-top:18px}
+  .stats-grid{padding:28px 0;row-gap:28px}
+  .fund-cards,.brand-grid{gap:18px}
+  .fund-cards article{padding:26px;min-height:0}
+  .section.strategy-brands{padding-bottom:32px}
+  .parent-brand{padding-bottom:28px;margin-bottom:28px}
+  .strategy-card{padding:28px 24px;min-height:0}
+  .strategy-notes{padding:28px 0 52px}
+  .strategy-notes .method-panel{margin-bottom:20px}
+  .strategy-notes .method-heading{padding:24px 22px;row-gap:10px}
+  .strategy-notes .principles{padding:22px;gap:16px}
+  .strategy-notes .principles>div,.strategy-notes .principles>div:nth-child(odd){padding:20px}
+  .strategy-notes .deer-description{padding:22px}
+  .strategy-notes .research-flow{gap:14px;margin:24px 0}
+  .wu-discipline{margin:0 22px 24px}
+  .wu-discipline,.deer-conviction{padding-top:24px}
+  .wu-discipline h4,.deer-conviction h4{margin-bottom:16px}
+  .insight-inner{gap:28px}
+  .insight-list article{padding:24px 0}
+  .risk-section h2{margin-bottom:0}
+  .risk-section .principles{padding-top:28px;row-gap:28px}
+  .contact-inner{gap:30px}
+  .disclosure{padding:32px 0}
+  footer{padding:28px 0}
+  .footer-inner{gap:24px}
+}
+
+/* Investment insights are reading content. */
+.insight-list article{cursor:default}
+
+/* restrained technical interface details */
+.hero::before{content:'';position:absolute;inset:0;pointer-events:none;opacity:.16;background:linear-gradient(105deg,transparent 0 47%,rgba(213,201,175,.16) 49%,transparent 51%);background-size:240% 100%;animation:hero-scan 13s ease-in-out infinite}
+.hero::after{content:'';position:absolute;inset:24px;pointer-events:none;border:1px solid rgba(199,169,106,.09);clip-path:polygon(0 0,22px 0,22px 1px,calc(100% - 22px) 1px,calc(100% - 22px) 0,100% 0,100% 22px,calc(100% - 1px) 22px,calc(100% - 1px) calc(100% - 22px),100% calc(100% - 22px),100% 100%,calc(100% - 22px) 100%,calc(100% - 22px) calc(100% - 1px),22px calc(100% - 1px),22px 100%,0 100%,0 calc(100% - 22px),1px calc(100% - 22px),1px 22px,0 22px)}
+.nav-links a{position:relative;transition:color .2s ease}
+.nav-links a::after{content:'';position:absolute;left:0;right:100%;bottom:-9px;height:1px;background:var(--gold);opacity:.8;transition:right .25s ease}
+.nav-links a:hover::after,.nav-links a:focus-visible::after{right:0}
+.section-tag{display:flex;align-items:center;gap:10px}
+.section-tag::before{content:'+';font:14px Arial;color:var(--gold);opacity:.75}
+.stats-grid>div{position:relative}
+.stats-grid>div::before{content:'//';position:absolute;top:-13px;left:50%;transform:translateX(-50%);font:9px Arial;letter-spacing:1px;color:var(--gold);opacity:.4}
+@keyframes hero-scan{0%,18%{background-position:120% 0}55%,100%{background-position:-20% 0}}
+@media(prefers-reduced-motion:reduce){.hero::before{animation:none;background:none}}
+@media(max-width:760px){.hero::after{inset:14px}.nav-links a::after{bottom:1px}.stats-grid>div::before{top:-12px}}
